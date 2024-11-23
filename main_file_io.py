@@ -1,4 +1,3 @@
-from importlib.metadata import files
 from tkinter import *
 from tkinter import filedialog as fd
 from tkinter import messagebox as mb
